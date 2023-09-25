@@ -1,5 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
+import '../product/product.dart';
+
 part 'resp.freezed.dart';
 part 'resp.g.dart';
 
